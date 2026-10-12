@@ -1,0 +1,5 @@
+google-genai
+Pillow
+natsort
+python-dotenv
+reportlab
